@@ -7,8 +7,8 @@ You can either run it on any IDE editor but for that you will need java to be in
 
  For IDE Run:
 
-    - [Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248737_8c876547113c4e4aab3c868e9e0ec572)
-    - [JDK](https://www.oracle.com/in/java/technologies/downloads/)
+    *[Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248737_8c876547113c4e4aab3c868e9e0ec572)
+    *[JDK](https://www.oracle.com/in/java/technologies/downloads/)
                 
 
 ## Breakdown of the code
