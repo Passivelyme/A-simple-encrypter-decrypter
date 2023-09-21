@@ -11,10 +11,12 @@ You can either run it on any IDE editor but for that you will need java to be in
                 
 
 ## Breakdown of the code
-    The encrypter and decrypter which uses a single hashmap "Reference_map" for the dictonary mapping which is called upon based on the user input desire.
+    The encrypter and decrypter which uses a single hashmap "Reference_map" for the dictonary mapping which 
+    is called upon based on the user input desire.
 
     The Reference_map is a single hashmap which is called in two function namely:
                 Reference_table and Reverse_Reference_table
 
-    Reference_table and Reverse_Reference_table funtion handle the hasmap reference_map how the value are going to be mapped 
+    Reference_table and Reverse_Reference_table funtion handle the hasmap reference_map how the value are 
+    going to be mapped 
     
