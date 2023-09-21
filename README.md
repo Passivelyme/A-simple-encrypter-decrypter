@@ -16,5 +16,7 @@ The encrypter and decrypter which uses a single hashmap "Reference_map" for the 
 The Reference_map is a single hashmap which is called in two function namely:
         Reference_table and Reverse_Reference_table
 
-Reference_table and Reverse_Reference_table funtion handle the hasmap reference_map how the value are going to be mapped 
+Reference_table and Reverse_Reference_table funtion handle the hasmap reference_map how the value are going to be mapped.
+
+Next up is the encrypt and decrypt fucntion that handle the actual conversion.
     
